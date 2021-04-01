@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Apr  1 07:27:12 2021
+# Process ID: 8948
+# Current directory: D:/projects/project_getting_started/project_getting_started.runs/synth_1
+# Command line: vivado.exe -log switchToLed.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source switchToLed.tcl
+# Log file: D:/projects/project_getting_started/project_getting_started.runs/synth_1/switchToLed.vds
+# Journal file: D:/projects/project_getting_started/project_getting_started.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source switchToLed.tcl -notrace

@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:D:/projects/project_getting_started/project_getting_started.srcs/constrs_1/new/switchToLed_VirtexUltra.xdc rfile:../../../project_getting_started.srcs/constrs_1/new/switchToLed_VirtexUltra.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN A8 [get_ports slideSwitch]
+set_property src_info {type:XDC file:1 line:8 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN A16 [get_ports led]
